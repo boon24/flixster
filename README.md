@@ -14,7 +14,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://s3.amazonaws.com/img0.recordit.co/zlkVxUjD63.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1580460507&Signature=rkxi7NKES03v8cALBVVX6mo1Tio%3D" width=250><br>
+<img src="https://recordit.co/zlkVxUjD63" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
